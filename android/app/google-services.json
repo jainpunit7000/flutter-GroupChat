@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "59770549215",
+    "firebase_url": "https://chatapp-flutter-772b9.firebaseio.com",
+    "project_id": "chatapp-flutter-772b9",
+    "storage_bucket": "chatapp-flutter-772b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59770549215:android:796c1d81d8617e46614a6a",
+        "android_client_info": {
+          "package_name": "co.punit.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59770549215-mevdgui8ajdtovdj2c31fpdmoipdikaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt2OjiU3v9mcCKSSCjUSG4CvtWC7YGFFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59770549215-mevdgui8ajdtovdj2c31fpdmoipdikaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
